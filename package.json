@@ -1,0 +1,16 @@
+{
+  "name": "simple-submarine-swap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@liquality/chainabstractionlayer": "^0.1.23-next.12",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
